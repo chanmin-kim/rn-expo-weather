@@ -1,5 +1,28 @@
-# rn-expo-weather
-react native expo weather app
+# GPS기반 날씨정보 앱
 
-전체 소스코드에 대한 설명은 여기서 확인할 수 있습니다.
-https://freedman.tistory.com/category/Projects/RN%20%EC%9C%84%EC%B9%98%20%EA%B8%B0%EB%B0%98%20%EB%82%A0%EC%94%A8%EC%95%B1
+## 기술스택
+
+- React Native Expo
+- React Hook
+- OpenWeather API
+
+## 주요 기능
+
+### 1. 메인페이지
+- GPS 기반 날씨정보 표시
+
+### 2. 단위변환
+- 화씨/섭씨 단위 변환
+- 단위에 따른 정보 표시
+
+### 3. 새로고침
+- 새로고침에 따른 API 재요청
+
+### 4. 로딩화면
+- API 응답을 받기 전 로딩표시
+
+### 참고영상
+#### https://youtu.be/NgDaPmxewcg
+
+### 코드리뷰
+#### https://bit.ly/2UCAC9J
