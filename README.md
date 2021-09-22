@@ -6,7 +6,7 @@
 - React Hook
 - OpenWeather API
 
-## 주요 기능
+## UX/UI
 
 ### 1. 메인페이지
 - GPS 기반 날씨정보 표시
